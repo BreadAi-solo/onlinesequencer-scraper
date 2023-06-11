@@ -1,2 +1,2 @@
 # onlinesequencer-scraper
-this will scrape all midis from onlinesequencer.net
+this will scrape all midis from [onlinesequencer.net](https://onlinesequencer.net/)
